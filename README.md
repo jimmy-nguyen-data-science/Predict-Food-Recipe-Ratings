@@ -53,9 +53,11 @@ The baseline model of choice is using a regularized linear classifier with stoch
 ![Final Validation Performance Table](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Final%20Validation%20Performance%20Table.png)
 
 - Final Model - Confusion Matrix
+
 ![Final Performance Confusion Matrix](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Final%20Performance%20Confusion%20Matrix.png)
 
 - Final Model - Performance Report
+
 ![Final Performance Report](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Final%20Performance%20Report.png)
 
 ## Original Data 
