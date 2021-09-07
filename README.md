@@ -38,19 +38,28 @@ The baseline model of choice is using a regularized linear classifier with stoch
 
 
 ## Presentations and Reports
-* [Final Report]()
-* [Python Code]()
+* [Final Report](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Reports/Final%20Report.pdf)
+* [Python Code](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Code/Python/Python%20Code%20-%20PDF%20.pdf)
 
 ## Performance Results 
-![Baseline Validation Performance Table]()
 
-![Baseline Validation Performance Graph]()
+- Baseline Models - Validation Performance Table
+![Baseline Validation Performance Table](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Baseline%20Validation%20Performance%20Table.png)
 
-![Final Validation Performance Table]()
+- Baseline Models - Validation Performance Graph
+![Baseline Validation Performance Graph](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Baseline%20Validation%20Performance%20Graph.png)
 
-![Final Performance Confusion Matrix]()
+- Improving Baseline Models - Validation Performance Table
+![Final Validation Performance Table](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Final%20Validation%20Performance%20Table.png)
 
-![Final Performance Report]()
+- Final Model - Confusion Matrix 
+
+![Final Performance Confusion Matrix](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Final%20Performance%20Confusion%20Matrix.png)
+
+
+- Final Model - Performance Report
+
+![Final Performance Report](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Final%20Performance%20Report.png)
 
 ## Original Data 
 [Kaggle - Food.com Recipes and Interactions](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_recipes.csv)
