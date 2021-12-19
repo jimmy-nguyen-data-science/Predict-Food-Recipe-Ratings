@@ -3,6 +3,7 @@
 ## Completed: 16 August 2021 
 
 ## Collaborators 
+- Jimmy Nguyen 
 - [Jose Luis Estrada](https://github.com/jose-luis-estrada)
 - Ashutosh Singh 
 
