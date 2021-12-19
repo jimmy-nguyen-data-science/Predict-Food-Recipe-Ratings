@@ -1,10 +1,21 @@
-# Predict Food Recipe Ratings from Food.com Project
+# Project: Predict Food Recipe Ratings from Food.com
 
 ## Completed: 16 August 2021 
 
 ## Collaborators 
-- Jose Luis Estrada
+- [Jose Luis Estrada](https://github.com/jose-luis-estrada)
 - Ashutosh Singh 
+
+
+## Installation
+
+Data Exploration and Modeling was all done in [Jupyter Notebook](https://jupyter.org/).
+
+To clone this repository onto your device, use the commands below:
+
+	1. git init
+	2. git clone git@github.com:jimmy-nguyen-data-science/Predict-Food-Recipe-Ratings.git
+  
 
 ## Project Objective
 The purpose of this project is to compare different machine learning models that predict a consumers' rating based on their reviews on a recipe from Food.com
