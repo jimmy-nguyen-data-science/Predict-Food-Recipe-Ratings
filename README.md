@@ -2,8 +2,9 @@
 
 ## Completed: 16 August 2021 
 
-## Collaborators 
-- Jimmy Nguyen 
+
+## Authors and Collaborators
+- [Jimmy Nguyen](https://github.com/jimmy-nguyen-data-science)
 - [Jose Luis Estrada](https://github.com/jose-luis-estrada)
 - Ashutosh Singh 
 
