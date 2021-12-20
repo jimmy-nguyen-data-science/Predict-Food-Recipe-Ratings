@@ -57,21 +57,21 @@ The baseline model of choice is using a regularized linear classifier with stoch
 ## Performance Results 
 
 - Baseline Models - Validation Performance Table
-![Baseline Validation Performance Table](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Baseline%20Validation%20Performance%20Table.png)
+![Baseline Validation Performance Table](https://github.com/jimmy-nguyen-data-science/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Baseline%20Validation%20Performance%20Table.png)
 
 - Baseline Models - Validation Performance Graph
-![Baseline Validation Performance Graph](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Baseline%20Validation%20Performance%20Graph.png)
+![Baseline Validation Performance Graph](https://github.com/jimmy-nguyen-data-science/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Baseline%20Validation%20Performance%20Graph.png)
 
 - Improving Baseline Models - Validation Performance Table
-![Final Validation Performance Table](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Final%20Validation%20Performance%20Table.png)
+![Final Validation Performance Table](https://github.com/jimmy-nguyen-data-science/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Final%20Validation%20Performance%20Table.png)
 
 - Final Model - Confusion Matrix
 
-![Final Performance Confusion Matrix](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Final%20Performance%20Confusion%20Matrix.png)
+![Final Performance Confusion Matrix](https://github.com/jimmy-nguyen-data-science/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Final%20Performance%20Confusion%20Matrix.png)
 
 - Final Model - Performance Report
 
-![Final Performance Report](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Final%20Performance%20Report.png)
+![Final Performance Report](https://github.com/jimmy-nguyen-data-science/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Final%20Performance%20Report.png)
 
 ## Original Data 
 [Kaggle - Food.com Recipes and Interactions](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions?select=RAW_recipes.csv)
