@@ -51,8 +51,8 @@ The baseline model of choice is using a regularized linear classifier with stoch
 
 
 ## Presentations and Reports
-* [Final Report](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Reports/Final%20Report.pdf)
-* [Python Code](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Code/Python/Python%20Code%20-%20PDF%20.pdf)
+* [Final Report](https://github.com/jimmy-nguyen-data-science/Predict-Food-Recipe-Ratings/blob/main/Reports/Final%20Report.pdf)
+* [Python Code](https://github.com/Jimmy-Nguyen-Data-Science/Predict-Food-Recipe-Ratings/blob/main/Code/Python/Python%20Code%20-%20PDF%20.pdf)
 
 ## Performance Results 
 
