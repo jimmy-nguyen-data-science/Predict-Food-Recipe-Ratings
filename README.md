@@ -57,7 +57,7 @@ The baseline model of choice is using a regularized linear classifier with stoch
 ## Performance Results 
 
 - Baseline Models - Validation Performance Table
-[Baseline Validation Performance Table](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Baseline%20Validation%20Performance%20Table.png)
+![Baseline Validation Performance Table](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Baseline%20Validation%20Performance%20Table.png)
 
 - Baseline Models - Validation Performance Graph
 ![Baseline Validation Performance Graph](https://github.com/Jimmy-Nguyen-Data-Science-Portfolio/Predict-Food-Recipe-Ratings/blob/main/Data%20Visuals/Baseline%20Validation%20Performance%20Graph.png)
